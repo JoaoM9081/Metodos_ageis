@@ -1,4 +1,4 @@
-# Atividade 1 da Matéria de Métodos Ágeis
+# Atividade da Matéria de Métodos Ágeis
 
 ## Projeto: Site de Saúde
 
